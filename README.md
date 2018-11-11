@@ -1,2 +1,0 @@
-# mungingdata
-Personal blogging website
